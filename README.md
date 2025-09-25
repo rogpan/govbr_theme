@@ -1,4 +1,4 @@
-# CSS MENU DROPDOWS 5 NIVEIS
+# CSS MENU DROPDOWN 5 NÍVEIS
 /* Estilo base do menu da barra lateral esquerda */
 .barra-lateral-esquerda ul.menu {
   list-style: none;
